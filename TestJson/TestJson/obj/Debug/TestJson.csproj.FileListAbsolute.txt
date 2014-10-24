@@ -1,0 +1,16 @@
+c:\users\owner\documents\visual studio 2010\Projects\TestJson\TestJson\bin\TestJson.dll
+c:\users\owner\documents\visual studio 2010\Projects\TestJson\TestJson\bin\TestJson.pdb
+c:\users\owner\documents\visual studio 2010\Projects\TestJson\TestJson\obj\Debug\TestJson.dll
+c:\users\owner\documents\visual studio 2010\Projects\TestJson\TestJson\obj\Debug\TestJson.pdb
+c:\users\owner\documents\visual studio 2010\Projects\TestJson\TestJson\bin\Newtonsoft.Json.dll
+c:\users\owner\documents\visual studio 2010\Projects\TestJson\TestJson\obj\Debug\TestJson.csprojResolveAssemblyReference.cache
+D:\amish\Test\TestJson\TestJson\obj\Debug\ResolveAssemblyReference.cache
+D:\amish\Test\TestJson\TestJson\obj\Debug\TestJson.dll
+D:\amish\Test\TestJson\TestJson\bin\TestJson.dll
+D:\amish\Test\TestJson\TestJson\bin\TestJson.pdb
+D:\amish\Test\TestJson\TestJson\obj\Debug\TestJson.pdb
+D:\amish\TestJson\TestJson\bin\TestJson.dll
+D:\amish\TestJson\TestJson\bin\TestJson.pdb
+D:\amish\TestJson\TestJson\obj\Debug\ResolveAssemblyReference.cache
+D:\amish\TestJson\TestJson\obj\Debug\TestJson.dll
+D:\amish\TestJson\TestJson\obj\Debug\TestJson.pdb
